@@ -69,6 +69,8 @@ API names of fields:
  WhoId__c 	Lookup(Lead)
  MauticLead__c Number(18, 0) (External ID)
  Mautic_url__c URL(255)
+ 
+ In your configuration window please provide the namespace provided by Salesforce for you object. 
 
 ## Test the plugin
 
